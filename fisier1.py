@@ -1,3 +1,3 @@
-print("main-1")
-print("mmain-linia3gga")
-print("nnie")
+print("1")
+print("2")
+print("3")
