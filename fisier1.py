@@ -1,2 +1,2 @@
 print("main-1")
-print("negga")
+print("mmain-linia3gga")
